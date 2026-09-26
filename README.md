@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=45&pause=1000&color=33ff00&center=true&width=800&height=80&lines=SPOILER-Official;Multi+Device+Whatsapp+Bot;Made+by+chinku" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=45&pause=1000&color=33ff00&center=true&width=800&height=80&lines=CHINKU-Official;Multi+Device+Whatsapp+Bot;Made+by+chinku" alt="Typing SVG" />
   </a>
 </div>
 
