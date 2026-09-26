@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://i.ibb.co/q3D8PGcz/131c967667ef.jpg" width="1000" style="border-radius: 50%; border: 3px solid red; box-shadow: 0 0 20px red;" alt="𝗖𝗛𝗜𝗡𝗞𝗨-𝗧𝗘𝗖𝗛" />
+  <img src="https://github.com/user-attachments/assets/8e4e7693-fd0e-4ec0-9905-b8cd425fd11a" width="1000" style="border-radius: 50%; border: 3px solid red; box-shadow: 0 0 20px red;" alt="𝗖𝗛𝗜𝗡𝗞𝗨-𝗧𝗘𝗖𝗛" />
 </p>
 
 <h1 align="center">𝗖𝗛𝗜𝗡𝗞𝗨-𝗧𝗘𝗖𝗛</h1>
