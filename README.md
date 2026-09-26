@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">𝗖𝗛𝗜𝗡𝗞𝗨-𝗧𝗘𝗖𝗛</h1>
-<h3 align="center">supreme </h3>
+<h3 align="center">𝗖𝗛𝗜𝗡𝗞𝗨 </h3>
 <div align="center">
   
 <div align="center">
